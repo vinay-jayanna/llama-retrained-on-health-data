@@ -1,0 +1,9 @@
+{
+  "name": "mdl-lsucohcvt0b2q-b1mxve8nrq9cj",
+  "implementation": "custom_runtime.CustomHuggingFaceRuntime",
+  "parameters": {
+    "extra": {
+      "model_id": "Vipas-AI/llama-retrained-disease-dataset"
+    }
+  }
+}
